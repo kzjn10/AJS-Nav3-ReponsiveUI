@@ -1,2 +1,3 @@
 # AJS-Nav3-ResponsiveUI
-[Demo](demo/Screen_recording_20251231_115741.mp4)
+
+[![Watch the video](demo/Screenshot_20251231_122221.png)](https://youtu.be/xDRhz03-cI8)
